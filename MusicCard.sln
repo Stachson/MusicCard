@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicCard", "MusicCard\MusicCard.csproj", "{1E4743AF-E43F-4C7B-B88F-4F09C1F1289A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4743AF-E43F-4C7B-B88F-4F09C1F1289A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4743AF-E43F-4C7B-B88F-4F09C1F1289A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4743AF-E43F-4C7B-B88F-4F09C1F1289A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4743AF-E43F-4C7B-B88F-4F09C1F1289A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1133B9CE-127A-4FF0-B47D-ED8E8F11020B}
+	EndGlobalSection
+EndGlobal

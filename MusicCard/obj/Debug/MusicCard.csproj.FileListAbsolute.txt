@@ -1,0 +1,40 @@
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\bin\Debug\MusicCard.exe.config
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\bin\Debug\MusicCard.exe
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\bin\Debug\MusicCard.pdb
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\bin\Debug\Interop.WMPLib.dll
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\Interop.WMPLib.dll
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.ResolveComReference.cache
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.Form1.resources
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.Properties.Resources.resources
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.exe
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.pdb
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\bin\Debug\SharpDX.dll
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\bin\Debug\SharpDX.pdb
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.CopyComplete
+C:\Users\Marcin\source\repos\MusicCard\MusicCard\bin\Debug\SlimDX.dll
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\bin\Debug\MusicCard.exe.config
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\bin\Debug\MusicCard.exe
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\bin\Debug\MusicCard.pdb
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\bin\Debug\SharpDX.dll
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\bin\Debug\SlimDX.dll
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\bin\Debug\SharpDX.pdb
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.AssemblyReference.cache
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.ResolveComReference.cache
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.Form1.resources
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.Properties.Resources.resources
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.GenerateResource.cache
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.CoreCompileInputs.cache
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.csproj.CopyComplete
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.exe
+C:\Users\Stanisław Strauchold\Desktop\MusicCard\MusicCard\obj\Debug\MusicCard.pdb
